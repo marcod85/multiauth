@@ -1,9 +1,12 @@
 {
-    "name": "sboo/multiauth",
+    "name": "marcod85/multiauth",
     "description": "Multiple auth driver for Laravel 5",
 	"keywords": ["laravel", "laravel 5", "multi", "auth"],
 	"license": "MIT",
     "authors": [
+        {
+          "name": "Marco"
+        },
         {
           "name": "Ramon Ackermann",
           "email": "ramon.ackermann@sboo.eu"
